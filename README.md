@@ -1,4 +1,4 @@
-# cic-code-RI
+# cic-code-ri
 
 Code Improvement Commission - structured HTML State Codes of Rhode Island (RI)
 
