@@ -16,7 +16,7 @@ Code which generates these files can be found here: https://github.com/UniCourt/
 
 Original RTF files can be found here: https://archive.org/download/gov.ri.code
 
-The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ri/
+The Standardised HTMLs can be found here: https://github.com/UniCourt/cic-code-ri
 
  ###### Other state Codes:
 
@@ -37,6 +37,8 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ri
  **North Carolina (NC):** https://unicourt.github.io/cic-code-nc
 
  **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+
+ **Rhode Island (RI):** https://unicourt.github.io/cic-code-ri
  
  **Tennessee (TN):** https://unicourt.github.io/cic-code-tn
  
